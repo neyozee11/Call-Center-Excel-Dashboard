@@ -2,11 +2,11 @@
 
 ### Project Overview
 
-This project involves the analysis and creation of a dashboard report showcasing the activities within a Call Center for the month of October 2020. The objective is to provide a graphical representation,offering meaningful insights into the trends and patterns of incoming calls to the Call Center.
+This project involves the analysis and creation of a dashboard report showcasing the activities within a Call Center for the month of October 2020. The objective is to provide a graphical representation, offering meaningful insights into the trends and patterns of incoming calls to the Call Center.
 
 ### Data Source
 
-The primary data source for this project is the "Call Center.csv" containing detailed information about the incoming calls to the Call Center.
+The primary data source for this project is the "Call Center.csv" containing detailed information about the incoming calls to a Call Center.
 
 ### Tools
 
